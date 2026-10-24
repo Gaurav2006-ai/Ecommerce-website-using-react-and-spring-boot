@@ -9,7 +9,7 @@ i created a simple online shopping experience where users can browse products, s
 The project consists of two main parts:
 
 - `Ecom-Frontend/` — React + Vite front-end for the storefront UI
-- `soringRepo/` — Spring Boot + JPA backend that exposes product APIs and stores data
+- `springRepo/` — Spring Boot + JPA backend that exposes product APIs and stores data
 
 ## What I Built
 
@@ -69,7 +69,7 @@ spring-react/
 ## How to Run
 
 ### 1) Start the backend
-Open the `Ecom-proj1` folder and run:
+Open the `springRepo` folder and run:
 
 ```bash
 ./mvnw spring-boot:run
